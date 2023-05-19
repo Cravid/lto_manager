@@ -1,0 +1,10 @@
+version: '3.0'
+
+services:
+  lto_manager:
+    container_name: lto_manager
+    image: lto_manager
+    restart: always
+    volumes:
+      - /mnt:/mnt
+    privileged: true
