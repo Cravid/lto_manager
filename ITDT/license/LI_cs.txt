@@ -1,0 +1,24 @@
+LICENÈNÍ INFORMACE
+
+Níže uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimiž døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro programy bez záruky (Z125-5589-05).
+
+Název Programu (Èíslo Programu):
+IBM Tape Diagnostic Tool Standard Edition Version 9.5 (Tool)
+
+Na používání Programu Držitelem licence se vztahují následující standardní podmínky.
+
+Omezená uživatelská práva
+
+S výjimkou Programù v balíku lze veškerý software IBM poskytnutý Držiteli licence s Programem použít pouze k podpoøe užívání Základního programu Držitelem licence v souladu s dokumentem Licenèní informace, což znamená, že takové použití musí pøímo souviset s licencovaným použitím Základního programu.
+
+Držitel licence není oprávnìn používat Program k poskytování komerèních služeb IT jakékoli tøetí stranì, k poskytování komerèního hostování nebo sdílení èasu nebo k udìlování sublicencí, pronájmu nebo pronájmu Programu.
+
+Zakázané užívání
+
+Držitel licence nesmí používat nebo autorizovat ostatní pro použití Programu, pokud by selhání Programu mohlo zpùsobit smrt, škodu na zdraví nebo škody na majetku èi životním prostøedí.
+
+L/N:  L-TOSD-BRGD8K
+D/N:  L-TOSD-BRGD8K
+P/N:  L-TOSD-BRGD8K
+
+
